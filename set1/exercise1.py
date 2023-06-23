@@ -9,4 +9,5 @@ https://design-computing.github.io/md/week1
 """
 # 👇👇 Write your code here 👇👇
 print("Hello world!")
+print("I dont know yet what i am doing!")
 # 👆👆 Write your code here 👆👆
